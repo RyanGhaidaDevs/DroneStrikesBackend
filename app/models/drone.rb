@@ -1,0 +1,3 @@
+class Drone < ApplicationRecord 
+
+end 
